@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AyanoNK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hello, I’m @AyanoNK. People usually call me Ayano.
+- I’m currently working in Angular & Ruby on Rails.
+- I've worked with Django, React & React Native.
+- I’m currently learning Astro.build & Kotlin.
+- Reach me at seb.correa.wilches@gmail.com
 
 <!---
 AyanoNK/AyanoNK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

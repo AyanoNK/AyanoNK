@@ -1,7 +1,8 @@
 - Hello, I’m @AyanoNK. People usually call me Ayano.
-- I’m currently working in Angular & Ruby on Rails.
-- I've worked with Django, React & React Native.
-- I’m currently learning Astro.build & Kotlin.
+- I’m currently working in React & Python.
+- I have developed frontend applications in React (& React Native), Angular, Astro, and Kotlin.
+- I've developed servers with Django, Ruby on Rails, Flask, and FastAPI.
+- I’m currently learning NextJS.
 - Reach me at seb.correa.wilches@gmail.com
 
 <!---

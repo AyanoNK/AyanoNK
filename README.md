@@ -5,6 +5,7 @@
 - I've developed microservices with Python.
 - I’m currently learning Rust.
 - Reach me at seb.correa.wilches@gmail.com or in [LinkedIn](https://www.linkedin.com/in/ayanonk/).
+- Check out my [web portfolio](https://www.ayano.software/).
 
 
 <!---

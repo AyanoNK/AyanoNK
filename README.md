@@ -4,7 +4,7 @@
 - I've developed servers with Django, Ruby on Rails, Flask, and FastAPI.
 - I've developed microservices with Python.
 - I’m currently learning Rust.
-- Reach me at seb.correa.wilches@gmail.com or in [LinkedIn](https://www.linkedin.com/in/ayanonk/)
+- Reach me at seb.correa.wilches@gmail.com or in [LinkedIn](https://www.linkedin.com/in/ayanonk/).
 
 
 <!---

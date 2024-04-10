@@ -1,7 +1,7 @@
 - Hello, I’m @AyanoNK. People usually call me Ayano.
-- I’m currently working in React & Python.
+- I’m currently working with React, Python, & Java.
 - I have developed frontend applications in React (& React Native), Angular, Astro, NextJS, and Kotlin.
-- I've developed servers with Django, Ruby on Rails, Flask, and FastAPI.
+- I've developed and deployed servers built with Django, Ruby on Rails, Flask, and FastAPI.
 - I've developed microservices with Python.
 - I’m currently learning Rust.
 - Reach me at seb.correa.wilches@gmail.com or in [LinkedIn](https://www.linkedin.com/in/ayanonk/).

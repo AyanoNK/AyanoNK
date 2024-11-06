@@ -1,4 +1,4 @@
-[English] [日本語]  
+[English](https://github.com/AyanoNK/AyanoNK/blob/main/README.md) | [日本語](https://github.com/AyanoNK/AyanoNK/blob/main/README_jp.md)
 - Hola, soy @AyanoNK. La gente usualmente me llama Ayano.  
 - Actualmente, trabajo con React, Python y Java.  
 - He desarrollado aplicaciones de frontend en React (y React Native), Angular, Astro, NextJS y Kotlin.  

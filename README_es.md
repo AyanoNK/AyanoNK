@@ -5,7 +5,6 @@
 - He desarrollado y desplegado servidores construidos con Django, Ruby on Rails, Flask y FastAPI.  
 - He desarrollado microservicios con Python.  
 - Actualmente, me estoy certificando en AWS.  
-- Contáctame en seb.correa.wilches@gmail.com o en [LinkedIn](https://www.linkedin.com/in/ayanonk/).  
 - Mira mi [portafolio web](https://www.ayano.software/).
 
 <!---

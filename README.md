@@ -6,7 +6,6 @@
 - I've developed microservices with Python.
 - I've worked with CI/CD tools like GitHub Actions and CircleCI.
 - I’m currently certifying myself in AWS.
-- Reach me at seb.correa.wilches@gmail.com or in [LinkedIn](https://www.linkedin.com/in/ayanonk/).
 - Check out my [web portfolio](https://www.ayano.software/).
 
 
